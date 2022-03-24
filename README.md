@@ -1,2 +1,2 @@
 # orion-wordle
-chat-based wordle for orion-bot
+Chat-based Wordle for orion-bot

@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+#plugin-specific
+brain.json
+sgb-words.txt
