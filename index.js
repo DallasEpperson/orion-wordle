@@ -72,6 +72,7 @@ const handleGuess = (match, event, sendMsg) => {
     }
 
 
+    //todo render guesses image
     if(guess === brain.currentWord.toLowerCase()){
         sendMsg("Good job", event.channel);
     } else {
